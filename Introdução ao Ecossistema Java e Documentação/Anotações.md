@@ -13,13 +13,16 @@
 
   
 
-  ### Utilizando JVM
+  
 
+  ## Utilizando JVM
+  
   * jabba ls-remote
+  
   * jabba install openjdk@1.11
   * jabba use openjdk@1.11
   * java -version
-
+  
   
   
   ### Compilar
