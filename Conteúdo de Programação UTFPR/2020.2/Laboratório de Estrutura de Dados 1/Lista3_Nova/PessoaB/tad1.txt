@@ -1,0 +1,5 @@
+Hagrid 700
+Batata 25
+Ronaldo 32
+Cornim 27
+Peter 27
