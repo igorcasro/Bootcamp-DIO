@@ -17,6 +17,12 @@ Pasta com anotações e código a respeito de JavaDoc e JVM. Conteúdo mais gera
 
 Pasta que contém o que foi visto no curso da DIO, com utilização da IDE Eclipse e também do IntelliJ, separados por pastas dentro do diretório do curso visto.
 
+### Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+
+Pasta sobre o cuso que segue o nome deste tópico com foco nas variáveis e suas manipulações.
+
+
+
 
 
 ### Links úteis
