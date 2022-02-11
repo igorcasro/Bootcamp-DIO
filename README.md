@@ -5,11 +5,17 @@
 
 Como aluno da UTFPR - PG, ao longo do curso tive contato com várias tarefas e na pasta anexada a este diretório, há os códigos desenvolvidos por mim desde 2019 até 2021 nas linguagens ministradas ao longo do curso. Cabe um adendo de que, muitos dos códigos não estão "bonitos" e nem muito funcionais, mas na época era o que eu sabia fazer e ao menos cumpri com os propósitos das matérias.
 
-
-
 ### Introdução ao Git e GitHub
 
 Pasta com anotações tiradas por mim sobre utilização do github e principais comandos para vincular a pasta local ao servidor do github.
+
+### Introdução ao Ecossistema Java e Documentação
+
+Pasta com anotações e código a respeito de JavaDoc e JVM. Conteúdo mais geral e anotações sobre soft skills e hard skills.
+
+### Dominando IDEs Java
+
+Pasta que contém o que foi visto no curso da DIO, com utilização da IDE Eclipse e também do IntelliJ, separados por pastas dentro do diretório do curso visto.
 
 
 
