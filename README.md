@@ -21,7 +21,9 @@ Pasta que contém o que foi visto no curso da DIO, com utilização da IDE Eclip
 
 Pasta sobre o cuso que segue o nome deste tópico com foco nas variáveis e suas manipulações.
 
+### Entendendo Métodos Java
 
+Pasta que aborda o entendimento do que é um método, como criá-lo e utilizá-lo. Aborda criação, sobrecarga e retornos de métodos.
 
 
 
