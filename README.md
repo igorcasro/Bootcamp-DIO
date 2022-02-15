@@ -29,6 +29,14 @@ Pasta que aborda o entendimento do que é um método, como criá-lo e utilizá-l
 
 Pasta que aborda lógica condicional apresentando operadores e maneiras de usá-los. Dividido entre operadores relacionais, operadores lógicos, controle de fluxo e blocos.
 
+### Estruturas de Repetição e Arrays em Java
+
+Pasta que aborda o curso com foco em conhecer estruturas de repetição, funcionamento de Arrays na linguagem Java e a estrutura for-each.
+
+### Desafios Iniciais
+
+Primeiro desafio do curso que coloca em prática o entendimento de tarefas atribuídas e como resolver os desafios impostos, divido em três exercícios.
+
 
 
 ### Links úteis
