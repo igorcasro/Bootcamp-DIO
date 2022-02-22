@@ -37,6 +37,10 @@ Pasta que aborda o curso com foco em conhecer estruturas de repetição, funcion
 
 Primeiro desafio do curso que coloca em prática o entendimento de tarefas atribuídas e como resolver os desafios impostos, divido em três exercícios.
 
+### Programação Orientada a Objetos
+
+Pasta que aborda o curso que ensina sobre Orientação a Objetos (OO). Aborda os temass: por que usar, fundamentos, a estrutura, as relações e a organização.
+
 
 
 ### Links úteis
