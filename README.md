@@ -45,6 +45,10 @@ Pasta que aborda o curso que ensina sobre Orientação a Objetos (OO). Aborda os
 
 Segundo desafio do curso que coloca em prática o entendimento de tarefas atribuídas e como resolver os desafios impostos, divido em três exercícios.
 
+### Criando um Banco Digital com Java e Orientação a Objetos
+
+Projeto a ser entregue que leva como tema o nome da pasta.
+
 
 
 ### Links úteis
