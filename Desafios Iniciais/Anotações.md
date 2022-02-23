@@ -2,7 +2,7 @@
 
 # Desafios Iniciais
 
-São 3 desafios mas o primeiro era somente substituição de código, então não entrou na pasta deste desafio. Já os outros 2 se demonstram mais complexas e terão um espaço para o desenvolvimento de cada.
+São 3 desafios mas o primeiro era somente substituição de código, então não entrou na pasta deste desafio. Já os outros 2 se demonstram mais complexos e terão um espaço para o desenvolvimento de cada.
 
 ## Exibindo números pares
 

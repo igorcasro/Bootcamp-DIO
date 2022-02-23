@@ -41,6 +41,10 @@ Primeiro desafio do curso que coloca em prática o entendimento de tarefas atrib
 
 Pasta que aborda o curso que ensina sobre Orientação a Objetos (OO). Aborda os temass: por que usar, fundamentos, a estrutura, as relações e a organização.
 
+### Desafios Básicos
+
+Segundo desafio do curso que coloca em prática o entendimento de tarefas atribuídas e como resolver os desafios impostos, divido em três exercícios.
+
 
 
 ### Links úteis
