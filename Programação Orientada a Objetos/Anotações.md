@@ -78,20 +78,16 @@ Conceitos que criam as estruturas básicas da OO:
   * Conceito: define um contrato que deve ser seguido pela classe que a implementa. Quando uma classe implementa uma interface ela se compromete a realizar todos os comportamentos que a interface disponibiliza.
   * Como utiliza: em java coloca a palavra especial _interface_ A { } e é chamada por class B _implements_ A { }
 
-
-
 ### A organização
 
 * Pacotes:
   * Conceito: são uma organização física ou lógica criada para separar classes com responsabilidades distintas. Com isso, espera-se que a aplicação fique mais organizada e seja possível separar classes de finalidades e representatividades diferentes.
-* Visibiliades:
-  * Conceito:
-
-
-
-### Próximos passos
-
-
+* Visibiliades (modificadores de acesso):
+  * Conceito: tem como finalidade determinar até que ponto uma classe, atributo ou método pode ser usado. A utilização de modificadores de acesso é fundamental para o uso efetivo da OO. Algumas boas práticas e conceitos só são atingidos com o uso correto deles.
+  * Tipos: 
+    * Private: só usado dentro da classe;
+    * Protected: dentro da classe, mesmo pacote e subclasses;
+    * Public: em qualquer lugar.
 
 ## PASTAS NO DIRETÓRIO
 
